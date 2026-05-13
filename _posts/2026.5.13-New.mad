@@ -1,1 +1,21 @@
-
+---
+layout:     post           # 使用的布局（不需要改）
+title:     "invited talk" # 标题
+subtitle:   2026-5-13
+date:       2026-5-13 # 时间   
+author:     Tao Liang      # 作者
+header-img: img/post-bg-2015.jpg  #这篇文章标题背景图片
+catalog: true       # 是否归档
+tags:        #标签
+    - News
+---
+<p>We are honored to invite Professor Tiu Zian Cheak from MILA University to present a lecture titled "How's Your Manuscript Under The Microscopy of Editor & Reviewer" for our research group.</p>
+<p><strong>Event Details:</strong></p>
+<ul>
+<li><strong>Speaker:</strong> Professor Tiu Zian Cheak, MILA University</li>
+<li><strong>Topic:</strong> How's Your Manuscript Under The Microscopy of Editor & Reviewer</li>
+<li><strong>Audience:</strong> Research Group Members</li>
+<li><strong>Date:</strong> 2025-12-2 14:00-15:00</li>
+<li><strong>Venue:</strong> H302</li>
+</ul>
+<p>Source: <a href="https://www.hitsz.edu.cn/article/view/id-395600.html">HITSZ News</a></p>
